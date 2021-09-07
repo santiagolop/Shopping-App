@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShoppingApp</string>
+    <string name="image_description">Item Image</string>
+    <string name="item_text">Item text</string>
+    <string name="item_title">Shopping Item</string>
+    <string name="item_description">Item description</string>
+    <string name="button_save_text">Save as favorite</string>
+    <string name="button_delete_text">Remove favorite</string>
+</resources>
